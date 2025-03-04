@@ -6,3 +6,6 @@
    ```bash
    git clone https://github.com/your-username/simple-interest-calculator.git
 
+git add .
+git commit -m "Improved script performance"
+git push origin feature-branch
