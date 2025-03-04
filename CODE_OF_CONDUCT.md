@@ -5,6 +5,8 @@
 - Be **inclusive** 
 - Be **helpful** 
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
  **Unacceptable Behavior:**
 - Hate speech ❌
 - Harassment ❌
