@@ -1,14 +1,14 @@
-#  Simple Interest Calculator
+# Simple Interest Calculator
 
-##  Overview
+## Overview
 This project contains a **Bash script** to compute **Simple Interest** using:
 
-##  Features
+## Features
 -  Bash-based calculation
 -  Custom interest rates
 -  Open-source
 
-##  How to Run
+## How to Run
 1️ Open a terminal  
 2️ Run the script:  
 ```bash
