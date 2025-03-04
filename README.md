@@ -1,27 +1,15 @@
-# Ibm FInal Project
-  Simple Interest Calculator
+# 📊 Simple Interest Calculator
 
-# **Simple Interest Calculator**
- *IBM Final Project - GitHub Open Source Contribution*
+## 📌 Overview
+This project contains a **Bash script** to compute **Simple Interest** using:
 
-## ** Project Overview**
-This project is a **Simple Interest Calculator**, developed as part of IBM's **Git & GitHub Final Project**. The objective is to **host an open-source Bash script on GitHub**, follow best practices, and contribute via Git CLI.
+## 🚀 Features
+- 💻 Bash-based calculation
+- 📏 Custom interest rates
+- 🔓 Open-source
 
-## ** Features**
-- Computes **Simple Interest** using the formula:  
-
--  **Bash Script** for quick calculations.
--  **Open-source repository** with proper documentation.
--  **Apache License 2.0** for community contribution.
-
----
-
-## ** Repository Structure**
+## ⚙️ How to Run
+1️⃣ Open a terminal  
+2️⃣ Run the script:  
 ```bash
- simple-interest-calculator
-┣  LICENSE            # Apache 2.0 License
-┣  README.md          # Project Overview
-┣  simple-interest.sh # Bash script to calculate interest
-┣  CONTRIBUTING.md    # Contribution Guidelines
-┣  CODE_OF_CONDUCT.md # Rules for the community
-
+bash simple-interest.sh
